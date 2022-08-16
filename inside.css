@@ -1,0 +1,43 @@
+body{
+    background-color: lightblue;
+}
+    #top{
+    display:flex;
+    gap:20px;
+    background-color: skyblue;
+    font-size:18px;
+    color:rgb(5, 78, 54);
+    padding-left:400px;
+}
+#top p a:hover{
+color:green;
+text-transform:Uppercase;
+}
+svg{
+    height:18px;
+    padding-top:18px;
+    padding-left: 0px;;
+}
+.sec-1{
+    display:flex;
+    gap:5px;
+    gap:30px;
+}
+.sec-1 ul{
+    margin:0%;
+    line-height:80px;
+    padding-bottom:20px;
+    padding-right:210px;
+    margin-top:0px;
+    background-color:yellowgreen;  
+}
+.sec-1 ul li a:hover{
+    color:green;
+}
+.sec-1 p{
+    margin-top:85px;
+}
+.vertical-t p{
+    letter-spacing: 2px;
+    line-height: 28px;
+}
