@@ -18,11 +18,11 @@ body{
 .top1{
     color:rgb(225, 231, 225);
     display:flex;
-    gap:24px;
+    gap:22px;
     background-color:rgb(92, 31, 4);
     padding-left:600px;
     text-align: right;
-    justify-content: right;
+    justify-content: center;
 }
 svg{
     height:18px;
@@ -30,8 +30,8 @@ svg{
     padding-left: 0px;;
 }
 a{
-    padding: 8px;
-    border-radius: 6px;
+    padding: 10px;
+    border-radius: 5px;
     padding-top:15px;
     color:whitesmoke;
 }
